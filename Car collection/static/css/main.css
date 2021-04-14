@@ -1,0 +1,37 @@
+
+/*Start of MIddle Section Styles*/
+#middle-text{
+    text-align: center;
+    padding: 13vh;
+}
+
+#middle-text h2{
+    padding:1.5vw;
+}
+
+/* Start of Features Sectino Styles*/
+#brand-image{
+    margin-bottom: 10vh;
+}
+
+#freatures-section{
+    margin:8vw;
+}
+
+
+/* Footer section style*/
+.footer-text-flex{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3vw;
+}
+
+#footer-logo{
+    width: 100%;
+    max-width: 100%;
+}
+
+#footer{
+    border-top: 3px solid black;
+    margin-top: 20vh;
+}
